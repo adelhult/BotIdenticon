@@ -8,7 +8,7 @@ A React component that deterministically generates robot icons based on the give
   size={500}
 />
 ```
-Note: this has been rewritten as a typescript package - [@digitalungdom-se/but-identicon](https://github.com/digitalungdom-se/bot-identicon).
+Note: this has been rewritten as a typescript package - [@digitalungdom-se/bot-identicon](https://github.com/digitalungdom-se/bot-identicon).
 
 ## Dependencies
 [Crypto-js](https://www.npmjs.com/package/crypto-js) is needed to hash the identifier.
